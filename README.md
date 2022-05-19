@@ -5,4 +5,5 @@ It's make texture atlases by intertwining two sets of images to generate loop an
 ![Screenshot (23)](https://user-images.githubusercontent.com/47169854/169292107-f2b73d37-fdd9-4097-b01e-77f92dc2deca.png)
 
 It's the project standalone binary
+
 https://github.com/sadegh-taghavi/GFrameSheetandGlyphMaker/blob/master/GFrameSheetandGlyphMakerBinaries.zip
